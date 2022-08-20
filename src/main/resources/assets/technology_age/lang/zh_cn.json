@@ -1,5 +1,7 @@
 {
     "item.technology_age.obsidian_powder": "黑曜石粉末",
 
+    "block.technology_age.explosion_proof_concrete": "防爆混凝土",
+
     "itemGroup.buildingtab": "建筑材料"
 }

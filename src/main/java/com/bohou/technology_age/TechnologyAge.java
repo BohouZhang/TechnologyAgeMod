@@ -1,5 +1,6 @@
 package com.bohou.technology_age;
 
+import com.bohou.technology_age.block.ModBlocks;
 import com.bohou.technology_age.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.common.MinecraftForge;
@@ -20,6 +21,7 @@ public class TechnologyAge {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
         

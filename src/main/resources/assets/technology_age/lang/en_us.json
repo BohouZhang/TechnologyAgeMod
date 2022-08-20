@@ -1,5 +1,7 @@
 {
     "item.technology_age.obsidian_powder": "Obsidian Powder",
 
+    "block.technology_age.explosion_proof_concrete": "Explosion Proof Concrete",
+
     "itemGroup.buildingtab": "Building Material"
 }
