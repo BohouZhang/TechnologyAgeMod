@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Specification-Title: examplemod
-Specification-Vendor: examplemodsareus
+Specification-Title: technology_age
+Specification-Vendor: technology_agesareus
 Specification-Version: 1
-Implementation-Title: showBloodVolume
-Implementation-Version: 1.0
-Implementation-Vendor: examplemodsareus
-Implementation-Timestamp: 2022-08-15T00:41:14+0800
+Implementation-Title: TechnologyAgeMod
+Implementation-Version: 0.0.1-1.19
+Implementation-Vendor: technology_agesareus
+Implementation-Timestamp: 2022-08-20T15:01:30+0800
 
