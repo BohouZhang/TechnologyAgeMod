@@ -1,3 +1,5 @@
 {
-    "item.technology_age.obsidian_powder": "Obsidian Powder"
+    "item.technology_age.obsidian_powder": "Obsidian Powder",
+
+    "itemGroup.buildingtab": "Building Material"
 }

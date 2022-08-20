@@ -1,8 +1,8 @@
 package com.bohou.technology_age.item;
 
 import com.bohou.technology_age.TechnologyAge;
+import com.bohou.technology_age.tab.ModCreativeModeTab;
 
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -21,7 +21,7 @@ public class ModItems {
     public static final RegistryObject<Item> OBSIDIAN_PWDER = ITEMS.register(
         "obsidian_powder",
         () -> new Item(new Item.Properties()
-            .tab(CreativeModeTab.TAB_BUILDING_BLOCKS)
+            .tab(ModCreativeModeTab.BUILDING_BLOCK_TAB)
         )
     );
 

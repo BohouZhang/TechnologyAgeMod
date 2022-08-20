@@ -1,5 +1,7 @@
 package com.bohou.technology_age.tab;
 
+import com.bohou.technology_age.item.ModItems;
+
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
@@ -13,7 +15,7 @@ public class ModCreativeModeTab {
 
         @Override
         public ItemStack makeIcon() {
-            return null;
+            return new ItemStack(ModItems.OBSIDIAN_PWDER.get());
         }
         
     };
