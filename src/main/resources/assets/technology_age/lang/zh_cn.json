@@ -1,7 +1,22 @@
 {
     "item.technology_age.obsidian_powder": "黑曜石粉末",
 
-    "block.technology_age.explosion_proof_concrete": "防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_white": "白色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_orange": "橙色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_magenta": "品红色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_light_blue": "淡蓝色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_yellow": "黄色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_lime": "黄绿色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_pink": "粉红色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_gray": "灰色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_light_gray": "浅灰色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_cyan": "青色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_purple": "紫色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_blue": "蓝色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_brown": "棕色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_green": "绿色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_red": "红色防爆混凝土",
+    "block.technology_age.explosion_proof_concrete_black": "黑色防爆混凝土",
 
     "itemGroup.buildingtab": "建筑材料"
 }

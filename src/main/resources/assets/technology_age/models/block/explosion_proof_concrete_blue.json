@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "technology_age:block/explosion_proof_concrete_blue"
+    }
+}

@@ -1,7 +1,22 @@
 {
     "item.technology_age.obsidian_powder": "Obsidian Powder",
 
-    "block.technology_age.explosion_proof_concrete": "Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_white": "White Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_orange": "Orange Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_magenta": "Magenta Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_light_blue": "Light Blue Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_yellow": "Yellow Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_lime": "Lime Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_pink": "Pink Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_gray": "Gray Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_light_gray": "Light Gray Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_cyan": "Cyan Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_purple": "Purple Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_blue": "Blue Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_brown": "Brown Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_green": "Green Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_red": "Red Explosion Proof Concrete",
+    "block.technology_age.explosion_proof_concrete_black": "Black Explosion Proof Concrete",
 
     "itemGroup.buildingtab": "Building Material"
 }

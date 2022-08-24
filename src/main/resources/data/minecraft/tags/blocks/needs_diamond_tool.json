@@ -1,6 +1,21 @@
 {
     "replace": false,
     "values": [
-        "technology_age:explosion_proof_concrete"
+        "technology_age:explosion_proof_concrete_white",
+        "technology_age:explosion_proof_concrete_orange",
+        "technology_age:explosion_proof_concrete_magenta",
+        "technology_age:explosion_proof_concrete_light_blue",
+        "technology_age:explosion_proof_concrete_yellow",
+        "technology_age:explosion_proof_concrete_lime",
+        "technology_age:explosion_proof_concrete_pink",
+        "technology_age:explosion_proof_concrete_gray",
+        "technology_age:explosion_proof_concrete_light_gray",
+        "technology_age:explosion_proof_concrete_cyan",
+        "technology_age:explosion_proof_concrete_purple",
+        "technology_age:explosion_proof_concrete_blue",
+        "technology_age:explosion_proof_concrete_brown",
+        "technology_age:explosion_proof_concrete_green",
+        "technology_age:explosion_proof_concrete_red",
+        "technology_age:explosion_proof_concrete_black"
     ]
 }
