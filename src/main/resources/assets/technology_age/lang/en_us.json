@@ -1,5 +1,6 @@
 {
     "item.technology_age.obsidian_powder": "Obsidian Powder",
+    "item.technology_age.ultrasonic_mineral_crusher": "Ultrasonic Mineral Crusher",
 
     "block.technology_age.explosion_proof_concrete_white": "White Explosion Proof Concrete",
     "block.technology_age.explosion_proof_concrete_orange": "Orange Explosion Proof Concrete",
@@ -18,5 +19,6 @@
     "block.technology_age.explosion_proof_concrete_red": "Red Explosion Proof Concrete",
     "block.technology_age.explosion_proof_concrete_black": "Black Explosion Proof Concrete",
 
-    "itemGroup.buildingtab": "Building Material"
+    "itemGroup.buildingtab": "Building Material",
+    "itemGroup.technology_age_tools_tab": "Technology Tools"
 }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#$#",
+        "$#$",
+        "#$#"
+    ],
+    "key": {
+        "#":  {
+            "item": "minecraft:purple_concrete_powder"
+        },
+        "$": {
+            "item": "technology_age:obsidian_powder"
+        }
+    },
+    "result": {
+        "item": "technology_age:explosion_proof_concrete_purple",
+        "count": 6
+    }
+}

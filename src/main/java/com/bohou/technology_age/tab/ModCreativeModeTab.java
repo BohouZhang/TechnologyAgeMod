@@ -20,4 +20,13 @@ public class ModCreativeModeTab {
         
     };
 
+    public static final CreativeModeTab TECHNOLOGY_AGE_TOOLS_TAB = new CreativeModeTab("technology_age_tools_tab") {
+
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(ModItems.ULTRASONIC_MINERAL_CRUSHER.get());
+        }
+        
+    };
+
 }

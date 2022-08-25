@@ -1,6 +1,7 @@
 package com.bohou.technology_age.item;
 
 import com.bohou.technology_age.TechnologyAge;
+import com.bohou.technology_age.item.custom.UltrasonicMineralCrusherItem;
 import com.bohou.technology_age.tab.ModCreativeModeTab;
 
 import net.minecraft.world.item.Item;
@@ -18,6 +19,13 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
         DeferredRegister.create(ForgeRegistries.ITEMS, TechnologyAge.MOD_ID);
 
+    public static void register(IEventBus eventBus) {
+        ITEMS.register(eventBus);
+    }
+
+    /**
+     * 黑曜石粉末
+     */
     public static final RegistryObject<Item> OBSIDIAN_PWDER = ITEMS.register(
         "obsidian_powder",
         () -> new Item(new Item.Properties()
@@ -25,8 +33,11 @@ public class ModItems {
         )
     );
 
-    public static void register(IEventBus eventBus) {
-        ITEMS.register(eventBus);
-    }
+    public static final RegistryObject<Item> ULTRASONIC_MINERAL_CRUSHER = ITEMS.register(
+        "ultrasonic_mineral_crusher", 
+        () -> new UltrasonicMineralCrusherItem(new Item.Properties()
+            .tab(ModCreativeModeTab.TECHNOLOGY_AGE_TOOLS_TAB)
+        )
+    );
 
 }
