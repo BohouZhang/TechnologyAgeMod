@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "technology_age:block/carbyne_armor", "y": 270},
+		"facing=east": { "model": "technology_age:block/carbyne_armor"},
+		"facing=west": { "model": "technology_age:block/carbyne_armor", "y": 180},
+		"facing=south": { "model": "technology_age:block/carbyne_armor", "y": 90}
+    }
+}

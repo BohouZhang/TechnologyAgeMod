@@ -3,6 +3,7 @@ package com.bohou.technology_age.block;
 import java.util.function.Supplier;
 
 import com.bohou.technology_age.TechnologyAge;
+import com.bohou.technology_age.block.custom.CarbyneArmorBlock;
 import com.bohou.technology_age.enums.ExplosionProofConcreteEnum;
 import com.bohou.technology_age.item.ModItems;
 import com.bohou.technology_age.tab.ModCreativeModeTab;
@@ -197,5 +198,18 @@ public class ModBlocks {
     );
 
     // -------------------- 防爆混凝土 结束 -------------------- //
+
+    public static final RegistryObject<Block> CARBYNE_ARMOR = ModBlocks.registerBlock(
+        "carbyne_armor", 
+        ModCreativeModeTab.BUILDING_BLOCK_TAB, 
+        () -> new CarbyneArmorBlock(BlockBehaviour.Properties
+            .of(Material.STONE)
+            .strength(100.0f)
+            .explosionResistance(18000000.0f)
+            .requiresCorrectToolForDrops()
+            .noOcclusion()
+            .noCollission()
+        )
+    );
 
 }
