@@ -30,7 +30,7 @@ public class ModBlocks {
 
     protected static <T extends Block> RegistryObject<T> registerBlock(String name,CreativeModeTab tab, Supplier<T> block ) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
-            registerBlockItem(name, toReturn, tab);
+        registerBlockItem(name, toReturn, tab);
         return toReturn;
     }
 
