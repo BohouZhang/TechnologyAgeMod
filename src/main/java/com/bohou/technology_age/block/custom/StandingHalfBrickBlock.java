@@ -16,7 +16,7 @@ public class StandingHalfBrickBlock extends HorizontalDirectionalBlock {
 
     public static final DirectionProperty FACING = BlockStateProperties.HORIZONTAL_FACING;
 
-    protected StandingHalfBrickBlock(Properties properties) {
+    public StandingHalfBrickBlock(Properties properties) {
         super(properties);
     }
 

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "technology_age:block/vertical_oak_slab", "y": 180},
+		"facing=east": { "model": "technology_age:block/vertical_oak_slab", "y": 270},
+		"facing=west": { "model": "technology_age:block/vertical_oak_slab", "y": 90},
+		"facing=south": { "model": "technology_age:block/vertical_oak_slab"}
+    }
+}

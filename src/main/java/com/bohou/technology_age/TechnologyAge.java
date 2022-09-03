@@ -1,6 +1,7 @@
 package com.bohou.technology_age;
 
 import com.bohou.technology_age.block.ModBlocks;
+import com.bohou.technology_age.block.VerticalSlabsBlocks;
 import com.bohou.technology_age.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.common.MinecraftForge;
@@ -22,6 +23,7 @@ public class TechnologyAge {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        VerticalSlabsBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
         

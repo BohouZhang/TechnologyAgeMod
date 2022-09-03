@@ -20,6 +20,8 @@
     "block.technology_age.explosion_proof_concrete_black": "Black Explosion Proof Concrete",
     "block.technology_age.carbyne_armor": "Carbyne Armor",
 
+    "block.technology_age.vertical_oak_slab": "Vertical Oak Slab",
+
     "itemGroup.buildingtab": "Building Material",
     "itemGroup.technology_age_tools_tab": "Technology Tools"
 }
